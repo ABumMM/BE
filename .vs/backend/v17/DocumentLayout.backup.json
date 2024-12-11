@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\controllers\\backuprestorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\controllers\\backuprestorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\controllers\\receiptexportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\controllers\\receiptexportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\models\\warehouseproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\models\\warehouseproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\models\\warehouseexportdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\models\\warehouseexportdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\models\\warehouseexports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\models\\warehouseexports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\models\\warehousereceiptdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\models\\warehousereceiptdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\models\\warehousereceipts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\models\\warehousereceipts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\models\\warehouses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\models\\warehouses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WarehouseExports.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseExports.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\WarehouseExports.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseExports.cs",
+              "RelativeToolTip": "backend\\Models\\WarehouseExports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:44:24.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WarehouseReceiptDetails.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseReceiptDetails.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\WarehouseReceiptDetails.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseReceiptDetails.cs",
+              "RelativeToolTip": "backend\\Models\\WarehouseReceiptDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:44:17.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReceiptExportController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\ReceiptExportController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ReceiptExportController.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\ReceiptExportController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ReceiptExportController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwGUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:42:04.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackUpRestoreController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\BackUpRestoreController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\BackUpRestoreController.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\BackUpRestoreController.cs",
+              "RelativeToolTip": "backend\\Controllers\\BackUpRestoreController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:23:32.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WarehouseExportDetails.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseExportDetails.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\WarehouseExportDetails.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseExportDetails.cs",
+              "RelativeToolTip": "backend\\Models\\WarehouseExportDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:44:29.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WarehouseProducts.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseProducts.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\WarehouseProducts.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseProducts.cs",
+              "RelativeToolTip": "backend\\Models\\WarehouseProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:44:36.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WarehouseController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\WarehouseController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\WarehouseController.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\WarehouseController.cs",
+              "RelativeToolTip": "backend\\Controllers\\WarehouseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:48:07.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WarehouseReceipts.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseReceipts.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\WarehouseReceipts.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseReceipts.cs",
+              "RelativeToolTip": "backend\\Models\\WarehouseReceipts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:43:41.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Warehouses.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\Warehouses.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Warehouses.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\Warehouses.cs",
+              "RelativeToolTip": "backend\\Models\\Warehouses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:43:31.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:42:01.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "backend\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAowEsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:58:34.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "backend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAwwNYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:30:37.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:23:30.979Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
