@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AvUQVvwJqMadGy92IjvoF3CTlZU9Nh7o3Ul2r89QbX0=",
+  "Hash": "nDmOVwzYd426xExeiLCZcBRqs1aRcP4S2HrhMoyt/nA=",
   "Source": "backend",
   "BasePath": "_content/backend",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "backend\\wwwroot",
       "Source": "backend",
-      "ContentRoot": "D:\\OneDrive\\Máy tính\\DATN\\pharmacy\\backend\\backend\\wwwroot\\",
+      "ContentRoot": "D:\\OneDrive\\Máy tính\\DATN\\CuaHangBanThuoc00\\backend\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "Pattern": "**"
     }

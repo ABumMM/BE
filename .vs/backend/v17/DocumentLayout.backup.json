@@ -1,65 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\",
+  "WorkspaceRootPath": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\controllers\\backuprestorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\out\\backend.dll||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\out\\backend.dll||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\controllers\\backuprestorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\controllers\\backuprestorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\controllers\\receiptexportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\controllers\\receiptexportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\controllers\\receiptexportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\models\\warehouseproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\models\\warehouseproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\models\\warehouseproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\models\\warehouseexportdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\models\\warehouseexportdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\models\\warehouseexportdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\models\\warehouseexports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\models\\warehouseexports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\models\\warehouseexports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\models\\warehousereceiptdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\models\\warehousereceiptdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\models\\warehousereceiptdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\models\\warehousereceipts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\models\\warehousereceipts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\models\\warehousereceipts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\models\\warehouses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\models\\warehouses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\models\\warehouses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\pharmacy\\backend\\backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|d:\\onedrive\\m\u00E1y t\u00EDnh\\datn\\cuahangbanthuoc00\\backend\\backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756EA841-62B3-4040-97A6-23ECCB924305}|backend\\backend.csproj|solutionrelative:backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,37 +114,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Program.cs",
-              "RelativeDocumentMoniker": "backend\\Program.cs",
-              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Program.cs",
-              "RelativeToolTip": "backend\\Program.cs",
+              "DocumentIndex": 1,
+              "Title": "backend.dll",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\out\\backend.dll",
+              "RelativeDocumentMoniker": "backend\\out\\backend.dll",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\out\\backend.dll*",
+              "RelativeToolTip": "backend\\out\\backend.dll*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-12-11T06:14:30.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T06:43:12.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\appsettings.json",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\appsettings.json",
               "RelativeDocumentMoniker": "backend\\appsettings.json",
-              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\appsettings.json",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\appsettings.json",
               "RelativeToolTip": "backend\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-10T06:43:03.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "WarehouseExports.cs",
-              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseExports.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Models\\WarehouseExports.cs",
               "RelativeDocumentMoniker": "backend\\Models\\WarehouseExports.cs",
-              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseExports.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Models\\WarehouseExports.cs",
               "RelativeToolTip": "backend\\Models\\WarehouseExports.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,11 +165,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "WarehouseReceiptDetails.cs",
-              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseReceiptDetails.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Models\\WarehouseReceiptDetails.cs",
               "RelativeDocumentMoniker": "backend\\Models\\WarehouseReceiptDetails.cs",
-              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseReceiptDetails.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Models\\WarehouseReceiptDetails.cs",
               "RelativeToolTip": "backend\\Models\\WarehouseReceiptDetails.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,11 +177,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ReceiptExportController.cs",
-              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\ReceiptExportController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Controllers\\ReceiptExportController.cs",
               "RelativeDocumentMoniker": "backend\\Controllers\\ReceiptExportController.cs",
-              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\ReceiptExportController.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Controllers\\ReceiptExportController.cs",
               "RelativeToolTip": "backend\\Controllers\\ReceiptExportController.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAwGUAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -172,24 +189,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BackUpRestoreController.cs",
-              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\BackUpRestoreController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Controllers\\BackUpRestoreController.cs",
               "RelativeDocumentMoniker": "backend\\Controllers\\BackUpRestoreController.cs",
-              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\BackUpRestoreController.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Controllers\\BackUpRestoreController.cs",
               "RelativeToolTip": "backend\\Controllers\\BackUpRestoreController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwFYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T15:23:32.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T15:23:32.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "WarehouseExportDetails.cs",
-              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseExportDetails.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Models\\WarehouseExportDetails.cs",
               "RelativeDocumentMoniker": "backend\\Models\\WarehouseExportDetails.cs",
-              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseExportDetails.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Models\\WarehouseExportDetails.cs",
               "RelativeToolTip": "backend\\Models\\WarehouseExportDetails.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -197,11 +213,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "WarehouseProducts.cs",
-              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseProducts.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Models\\WarehouseProducts.cs",
               "RelativeDocumentMoniker": "backend\\Models\\WarehouseProducts.cs",
-              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseProducts.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Models\\WarehouseProducts.cs",
               "RelativeToolTip": "backend\\Models\\WarehouseProducts.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,11 +225,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "WarehouseController.cs",
-              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\WarehouseController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Controllers\\WarehouseController.cs",
               "RelativeDocumentMoniker": "backend\\Controllers\\WarehouseController.cs",
-              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\WarehouseController.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Controllers\\WarehouseController.cs",
               "RelativeToolTip": "backend\\Controllers\\WarehouseController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -221,11 +237,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "WarehouseReceipts.cs",
-              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseReceipts.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Models\\WarehouseReceipts.cs",
               "RelativeDocumentMoniker": "backend\\Models\\WarehouseReceipts.cs",
-              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\WarehouseReceipts.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Models\\WarehouseReceipts.cs",
               "RelativeToolTip": "backend\\Models\\WarehouseReceipts.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,11 +249,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Warehouses.cs",
-              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\Warehouses.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Models\\Warehouses.cs",
               "RelativeDocumentMoniker": "backend\\Models\\Warehouses.cs",
-              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Models\\Warehouses.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Models\\Warehouses.cs",
               "RelativeToolTip": "backend\\Models\\Warehouses.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -245,11 +261,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "backend\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Controllers\\ProductController.cs",
               "RelativeToolTip": "backend\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -257,11 +273,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\OrderController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "backend\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Controllers\\OrderController.cs",
               "RelativeToolTip": "backend\\Controllers\\OrderController.cs",
               "ViewState": "AgIAACYBAAAAAAAAAAAowEsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -269,11 +285,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\UserController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "backend\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Controllers\\UserController.cs",
               "RelativeToolTip": "backend\\Controllers\\UserController.cs",
               "ViewState": "AgIAAMoAAAAAAAAAAAAwwNYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -281,11 +297,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "backend\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\pharmacy\\backend\\backend\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\OneDrive\\M\u00E1y t\u00EDnh\\DATN\\CuaHangBanThuoc00\\backend\\backend\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "backend\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
