@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Máy tính\\DATN\\pharmacy\\backend\\backend\\backend.csproj": {}
+    "D:\\OneDrive\\Máy tính\\DATN\\CuaHangBanThuoc00\\backend\\backend\\backend.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Máy tính\\DATN\\pharmacy\\backend\\backend\\backend.csproj": {
+    "D:\\OneDrive\\Máy tính\\DATN\\CuaHangBanThuoc00\\backend\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Máy tính\\DATN\\pharmacy\\backend\\backend\\backend.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Máy tính\\DATN\\CuaHangBanThuoc00\\backend\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "D:\\OneDrive\\Máy tính\\DATN\\pharmacy\\backend\\backend\\backend.csproj",
+        "projectPath": "D:\\OneDrive\\Máy tính\\DATN\\CuaHangBanThuoc00\\backend\\backend\\backend.csproj",
         "packagesPath": "C:\\Users\\anhng\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Máy tính\\DATN\\pharmacy\\backend\\backend\\obj\\",
+        "outputPath": "D:\\OneDrive\\Máy tính\\DATN\\CuaHangBanThuoc00\\backend\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anhng\\AppData\\Roaming\\NuGet\\NuGet.Config",
