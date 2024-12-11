@@ -34,9 +34,8 @@ builder.Services.AddSwaggerGen(options =>
 });
 builder.Services.AddDbContext<FinalContext>(options =>
 {
-    options.UseSqlServer(Environment.GetEnvironmentVariable("dbContext"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("dbContext"));
 });
-
 builder.Services.AddCors();
 
 var app = builder.Build();

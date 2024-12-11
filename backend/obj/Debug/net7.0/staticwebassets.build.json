@@ -1,19 +1,11 @@
 {
   "Version": 1,
-  "Hash": "nDmOVwzYd426xExeiLCZcBRqs1aRcP4S2HrhMoyt/nA=",
+  "Hash": "7/yvsnDRTixX0vVer35KSjS1HzfM4rGxA/gc1emwSdw=",
   "Source": "backend",
   "BasePath": "_content/backend",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "backend\\wwwroot",
-      "Source": "backend",
-      "ContentRoot": "D:\\OneDrive\\Máy tính\\DATN\\CuaHangBanThuoc00\\backend\\backend\\wwwroot\\",
-      "BasePath": "_content/backend",
-      "Pattern": "**"
-    }
-  ],
+  "DiscoveryPatterns": [],
   "Assets": []
 }
